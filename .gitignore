@@ -5,7 +5,6 @@ Makefile
 Thumbs.db
 *.doc
 *.docx
-*.pdf
 *.mts
 *.mov
 *.mp4
